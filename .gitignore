@@ -3,4 +3,5 @@ cmake-build-debug/
 
 # Игнорировать каталог .idea
 .idea/
+.DS_Store
 
