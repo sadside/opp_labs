@@ -1,7 +1,0 @@
-# ninja log v5
-3	472	1740720005463430803	CMakeFiles/my_mpi_app.dir/main.cpp.o	cb9be036fc4d6392
-472	514	1740720005506852341	my_mpi_app	c4274afe57c2cf8c
-3	453	1740720145757929496	CMakeFiles/my_mpi_app.dir/main.cpp.o	cb9be036fc4d6392
-453	493	1740720145798829501	my_mpi_app	c4274afe57c2cf8c
-3	375	1740720170755408920	CMakeFiles/my_mpi_app.dir/main.cpp.o	cb9be036fc4d6392
-375	413	1740720170796710884	my_mpi_app	c4274afe57c2cf8c

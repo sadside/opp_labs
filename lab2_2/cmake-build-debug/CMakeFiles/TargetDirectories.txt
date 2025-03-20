@@ -1,3 +1,0 @@
-/Users/vadimkhalikov/CLionProjects/opp2_2/cmake-build-debug/CMakeFiles/opp2_2.dir
-/Users/vadimkhalikov/CLionProjects/opp2_2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/vadimkhalikov/CLionProjects/opp2_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

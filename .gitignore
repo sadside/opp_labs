@@ -1,0 +1,6 @@
+# Игнорировать все каталоги cmake-build-debug
+cmake-build-debug/
+
+# Игнорировать каталог .idea
+.idea/
+

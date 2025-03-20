@@ -1,9 +1,0 @@
-# ninja log v5
-0	697	1742499912577178070	CMakeFiles/my_openmp_app.dir/main.cpp.o	f70ddf750cd176e0
-698	768	1742499912653190435	my_openmp_app	4e2aa480f048a21e
-2	633	1742500019372073029	CMakeFiles/my_openmp_app.dir/main.cpp.o	f70ddf750cd176e0
-633	702	1742500019446479554	my_openmp_app	4e2aa480f048a21e
-2	578	1742500177486484079	CMakeFiles/my_openmp_app.dir/main.cpp.o	f70ddf750cd176e0
-578	649	1742500177559716682	my_openmp_app	4e2aa480f048a21e
-2	735	1742500264244703864	CMakeFiles/my_openmp_app.dir/main.cpp.o	f70ddf750cd176e0
-735	810	1742500264324873205	my_openmp_app	4e2aa480f048a21e
